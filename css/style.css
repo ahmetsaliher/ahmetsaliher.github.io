@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-counter,
 #fh5co-event {
-  height: 550px;
+  height: 450px;
   float: left;
 }
 #fh5co-counter .display-t,
@@ -1169,7 +1169,8 @@ form label {
 }
 
 .fh5co-heading {
-  margin-bottom: 3em;
+  margin-bottom: -1em;
+  margin-top: 1em;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;

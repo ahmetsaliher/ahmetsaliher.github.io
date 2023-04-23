@@ -1180,7 +1180,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: #F14E95;
-  font-family: "Quicksand", "Sacramento", Arial, serif;
+  font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {

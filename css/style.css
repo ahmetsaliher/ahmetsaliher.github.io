@@ -19,6 +19,18 @@ body {
   background: #fff;
 }
 
+.T2dutf {
+  display: none;
+}
+
+.xpWfed {
+  display: none;
+}
+
+.simply-section.simply-seconds-section {
+  display: none;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -1838,5 +1850,7 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+
+
 
 /*# sourceMappingURL=style.css.map */

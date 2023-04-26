@@ -20,15 +20,11 @@ body {
 }
 
 .T2dutf {
-  display: none;
+  opacity: 0;
 }
 
 .xpWfed {
-  display: none;
-}
-
-.simply-section.simply-seconds-section {
-  display: none;
+  opacity: 0;
 }
 
 #page {
@@ -961,6 +957,10 @@ form label {
   border-radius: 50%;
   position: relative;
   animation: pulse 1s ease infinite;
+}
+
+.simply-countdown > .simply-section.simply-seconds-section {
+  display: none;
 }
 
 @keyframes pulse {
